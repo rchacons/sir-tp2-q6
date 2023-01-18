@@ -1,9 +1,9 @@
 package fr.istic.tpjpa.jpa;
 
-import javax.persistence.EntityManager;
-import javax.persistence.EntityManagerFactory;
-import javax.persistence.EntityTransaction;
-import javax.persistence.Persistence;
+import jakarta.persistence.EntityManager;
+import jakarta.persistence.EntityManagerFactory;
+import jakarta.persistence.EntityTransaction;
+import jakarta.persistence.Persistence;
 
 import fr.istic.tpjpa.domain.Department;
 import fr.istic.tpjpa.domain.Employee;
