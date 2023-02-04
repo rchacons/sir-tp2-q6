@@ -1,5 +1,5 @@
-fr\istic\tpjpa\jpa\N1Select.class
-fr\istic\tpjpa\domain\Employee.class
-fr\istic\tpjpa\jpa\JpaTest.class
-fr\istic\tpjpa\domain\Department.class
-fr\istic\tpjpa\jpa\Joinfetch.class
+fr/istic/tpjpa/jpa/N1Select.class
+fr/istic/tpjpa/jpa/Joinfetch.class
+fr/istic/tpjpa/domain/Department.class
+fr/istic/tpjpa/jpa/JpaTest.class
+fr/istic/tpjpa/domain/Employee.class
